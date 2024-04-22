@@ -1,0 +1,43 @@
+.card-position{
+    background-color:lightgreen;
+    margin: 15px 15px 50px 330px;
+    width: 440px;
+    height: 330px; 
+    padding: 20px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    border: 2px solid #ccc;
+    border-radius: 15px;
+}
+.button
+{
+    margin: 10px 80px 10px 140px;
+}
+.icon-container {
+    position: relative; 
+    text-align: center;
+    margin-bottom: 40px;
+  }
+  
+  .user-icon {
+    font-size: 70px;
+    position: absolute; 
+    top: 50%; 
+    transform: translateY(-50%); 
+    left: 160px; 
+    top:20px;
+  }
+  .icon-input {
+    padding-left: 40px; 
+  }
+  .input-icon-container {
+    position: relative; 
+    
+  }
+  .input-icon {
+    position: absolute; 
+    left: 10px; 
+    top: 50%; 
+    transform: translateY(-50%); 
+    font-size: 15px; 
+  }
+  
